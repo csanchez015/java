@@ -1,0 +1,53 @@
+body{
+	
+	background-color: whitesmoke;
+}
+.container{
+	margin:0 auto; 
+	width: 60%;
+}
+.content{
+	margin:0 auto;
+	background-color: teal;
+	
+}
+.table{
+	margin: 0 auto;
+	width:100%;
+}
+
+.table table{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+.table td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+.table th{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+.input{
+	width: 280px;
+}
+
+.expenseInput{
+	display:flex;
+	margin-left: 20px;
+}
+
+.labels{
+	width: 150px;
+}
+
+.button{
+	background-color: lightblue;
+	float: right;
+	margin-right: 28%;
+	width: 80px;
+	height: 30px;
+}

@@ -1,0 +1,23 @@
+body{
+	background-color: whitesmoke;
+}
+.container{
+	width: 800px;
+	margin: 0 auto;
+}
+
+.header{
+	color:blue;
+	font-size: 3em;
+}
+
+.top{
+	display:flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.box{
+	width: 800px;
+	margin:0 auto;
+}
